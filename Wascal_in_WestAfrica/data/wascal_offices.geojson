@@ -1,0 +1,41 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.50188, 12.32813]
+    },
+    "properties": {
+    "Image":"<img src=\"..\/imgs\/WASCAL_CoC.jpg\" width=\"90px\" margin=\"0px\" padding=\"0px\" opacity=\"0.7\">",
+    "Country":"<img src=\"..\/flags\/burkina-faso.png\"> Burkina Faso",
+    "Location":"Ouagadougou",
+    "Name":"Wascal Competence Center (CoC)",
+    "Director":"Prof. Kehinde Olufunsu Ogunjobi",
+    "Adress":" Boulevard Mouammar Kadafi, Patte d'oie, 06 B.P 9507",
+    "Email":"<a href=\"mailto:secretariat_cc@wascal.org\" title=\"Send email\">secretariat_cc@wascal.org</a>",
+    "Phone":"+226 25 37 54 23",
+    "Read more": "<a href=\"https://wascal.org/about-competence-centre/\" title=\"Competence Center\">web</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-0.18540 , 5.59752]
+    },
+    "properties": {
+    "Image":"<img src=\"..\/imgs\/WASCAL-headquaters.jpg\" width=\"90px\" margin=\"0px\" padding=\"0px\" opacity=\"0.7\">",
+    "Country":"<img src=\"..\/flags\/ghana.png\"> Ghana",
+    "Location":"Accra",
+    "Name":"Wascal Headquaters",
+    "Director":"Dr. Moumini Savadogo",
+    "Adress":"No 6 Agostinho Neto, Rd Airport Residential, PMB CT 504 ",
+    "Email":"<a href=\"mailto:info@wascal.org\" title=\"Send email\">info@wascal.org</a>",
+    "Phone":" +233 50 152 8984",
+    "Read more":"<a href=\"https://wascal.org/\" title=\"Competence Center\">web</a>"
+    }
+  }
+]
+}

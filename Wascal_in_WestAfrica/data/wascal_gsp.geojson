@@ -1,0 +1,270 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [-1.49969,12.37879]
+     },
+    "properties": {
+        "Image":"<img src=\"..\/imgs\/bf.jpg\" width=\"90px\" margin=\"0px\" padding=\"0px\" opacity=\"0.7\">",
+        "Country":"<img src=\"..\/flags\/burkina-faso.png\"> Burkina Faso",
+        "Location":"Ouagadougou",
+        "Name":"Informatics for Climate Change",
+        "Host University":"<img src=\"..\/univ-logo\/Universite-Ouagadougou.jpg\" width=\"25px\" height=\"25px\"> Universite Joseph Ki-Zerbo",
+        "Degree":"Master Research",
+        "Director":"Prof. Tanga Pierre ZOUNGRANA",
+        "Deputy":"Dr. Ousmane COULIBALY",
+        "Field":"Informatics",
+        "Adress":" 03 BP 7021 Ouagadougou 03",
+        "Email":"<a href=\"mailto:mrp.informcc@gmail.com\" title=\"Send email\">mrp.informcc@gmail.com</a>",
+        "Phone":"+226 25314030",
+        "Program overview":"<a href=\"https://wascal.org/master-research-programme-on-informatics-for-climate-change/\" title=\"GSP ICC\">web</a>"
+        }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-24.985677788528076, 16.864149474703616]
+    },
+   "properties": {
+       "Image":"<img src=\"..\/imgs\/capeVerde.jpg\" width=\"90px\" margin=\"0px\" padding=\"0px\" opacity=\"0.7\">",
+       "Country":"<img src=\"..\/flags\/Cape-Verde.png\" width=\"25px\" height=\"25px\"> Cape Verde",
+       "Location":"São Vicente",
+       "Name":"Climate Change and Marine Sciences",
+       "Host University":"<img src=\"..\/univ-logo\/uta.jpg\" width=\"25px\" height=\"25px\"> The Atlantic Technical University",
+       "Degree":"Master Research",
+       "Director":"Dr. Corrine Almeida",
+       "Deputy":"Dr. Luis Jorge Fernandes",
+       "Field":"Marine Sciences",
+       "Adress":" Campus Ribeira de Julião. Edificio B. C. P. 163",
+       "Email":"<a href=\"mailto:wascalcv@uta.cv\" title=\"Send email\">wascalcv@uta.cv</a>",
+       "Phone":"00238 2321113",
+       "Program overview":"<a href=\"https://wascal.org/master-programme-climate-change-and-marine-sciences/\" title=\"GSP CC-MS\">web</a>"
+       }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [5.139540323278803,7.3078507688497965]
+    },
+   "properties": {
+       "Image":"<img src=\"..\/imgs\/futa.jpeg\" width=\"90px\" margin=\"0px\" padding=\"0px\" opacity=\"0.7\">",
+       "Country":"<img src=\"..\/flags\/nigeria.png\"> Nigeria",
+       "Location":"Akure",
+       "Name":"West African Climate System (WACS)",
+       "Host University":"<img src=\"..\/univ-logo\/FUTA.jpg\" width=\"25px\" height=\"25px\"> Federal University of Technology in Akure",
+       "Degree":"PhD",
+       "Director":"Prof. Debo Adeyewa",
+       "Deputy":"Dr. Ifeoluwa A. Balogun",
+       "Field":"Climate System",
+       "Adress":" 844Q+RW Akure, Nigeria",
+       "Email":"<a href=\"mailto:swascal@futa.edu.ng\" title=\"Send email\">swascal@futa.edu.ng</a>",
+       "Phone":"+234 806 746 3403",
+       "Program overview":"<a href=\"https://wascal.org/doctoral-pogramme-west-african-climate-systems/\" title=\"GSP WACS\">web</a>"
+       }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [2.31226018465576, 6.414183275182313]
+    },
+   "properties": {
+       "Image":"<img src=\"..\/imgs\/benin.JPG\" width=\"90px\" margin=\"0px\" padding=\"0px\" opacity=\"0.7\">",
+       "Country":"<img src=\"..\/flags\/benin.png\"> Benin",
+       "Location":"Abomey Calavi",
+       "Name":"Climate Change and Water Resources",
+       "Host University":"<img src=\"..\/univ-logo\/abomeycalavi.jpg\" width=\"25px\" height=\"25px\"> Universite Abomey Calavi",
+       "Degree":"PhD",
+       "Director":"Dr. Julien Adounkpe",
+       "Deputy":"Prof. Emmanuel Lawin",
+       "Field":"Management of Water Resources",
+       "Adress":"01 BP 526, Abomey-Calavi - Bénin ",
+       "Email":"<a href=\"mailto:aafouda@yahoo.fr\" title=\"Send email\">aafouda@yahoo.fr</a>",
+       "Phone":"+229 90942033",
+       "Program overview":"<a href=\"https://wascal.org/doctoral-programme-climate-change-and-water-resources/\" title=\"GSP CC-WR\">web</a>"
+       }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-17.470429223278806, 14.692229317378594]
+    },
+   "properties": {
+       "Image":"<img src=\"..\/imgs\/senegal.JPG\" width=\"90px\" margin=\"0px\" padding=\"0px\" opacity=\"0.7\">",
+       "Country":"<img src=\"..\/flags\/senegal.png\"> Senegal",
+       "Location":"Dakar",
+       "Name":"Climate Change and Economics",
+       "Host University":"<img src=\"..\/univ-logo\/senegal.jpeg\" width=\"25px\" height=\"25px\"> Cheikh Anta Diop University",
+       "Degree":"PhD",
+       "Director":"Professor Fatou Gueye",
+       "Deputy":"Dr. Assane Beye",
+       "Field":"Economics",
+       "Adress":"Bâtiment Centre de Mesure derrière UCAD 2, BP 16448 Dakar-Fann",
+       "Email":"<a href=\"mailto:wascal.phd@ucad.edu.sn\" title=\"Send email\">wascal.phd@ucad.edu.sn</a>",
+       "Phone":"+221 33 8592218",
+       "Program overview":"<a href=\"https://wascal.org/doctoral-programme-climate-change-and-economics/\" title=\"GSP CCE\">web</a>"
+       }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-1.565510646032718, 6.6731003434998915]
+    },
+   "properties": {
+       "Image":"<img src=\"..\/imgs\/ghana-2.jpeg\" width=\"90px\" margin=\"0px\" padding=\"0px\" opacity=\"0.7\">",
+       "Country":"<img src=\"..\/flags\/ghana.png\"> Ghana",
+       "Location":"Kumasi",
+       "Name":"Climate Change and Land Use",
+       "Host University":"<img src=\"..\/univ-logo\/KNUST.jpg\" width=\"25px\" height=\"25px\"> Kwame Nkrumah University of Science and Technology",
+       "Degree":"PhD",
+       "Director":"Prof. Wilson A. Agyare",
+       "Deputy":"Prof. Eric Kwabena Forkuo",
+       "Field":"Land Use",
+       "Adress":"Accra Rd, Kumasi",
+       "Email":"<a href=\"mailto:wascal.cclu@knust.edu.gh\" title=\"Send email\">wascal.cclu@knust.edu.gh</a>",
+       "Phone":"+233 32 206 0021",
+       "Program overview":"<a href=\"https://wascal.org/doctoral-programme-climate-change-and-land-use/\" title=\"GSP CC-LU\">web</a>"
+       }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-7.533515623278802, 12.916610330912164]
+    },
+   "properties": {
+       "Image":"<img src=\"..\/imgs\/mali.webp\" width=\"90px\" margin=\"0px\" padding=\"0px\" opacity=\"0.7\">",
+       "Country":"<img src=\"..\/flags\/mali.png\"> Mali",
+       "Location":"Katibougou",
+       "Name":"Climate Change and Agriculture",
+       "Host University":"<img src=\"..\/univ-logo\/IPR_IFRA.jpg\" width=\"25px\" height=\"25px\"> Institut Polytechnique Rural de Formation et de Recherche Appliquée (IPR/IFRA)",
+       "Degree":"PhD",
+       "Director":"Dr. Yacouba Diallo",
+       "Deputy":"Dr. Benjamin Kofi Nyarko",
+       "Field":"Agriculture",
+       "Adress":"WF88+8G Katibougou, Mali",
+       "Email":"<a href=\"mailto:amadou.coulibaly@ipr-ifra.edu.ml\" title=\"Send email\">amadou.coulibaly@ipr-ifra.edu.ml</a>",
+       "Phone":"+22321262012",
+       "Program overview":"<a href=\"https://wascal.org/doctoral-programme-climate-change-and-agriculture/\" title=\"GSP CCA\">web</a>"
+       }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-3.9833048353284175, 5.356312693664519]
+    },
+   "properties": {
+       "Image":"<img src=\"..\/imgs\/ivory.jpg\" width=\"90px\" margin=\"0px\" padding=\"0px\" opacity=\"0.7\">",
+       "Country":"<img src=\"..\/flags\/ivory-coast.png\"> Ivory Coast",
+       "Location":"Abidjan",
+       "Name":"Climate Change and Biodiversity",
+       "Host University":"<img src=\"..\/univ-logo\/ivory.jpg\" width=\"25px\" height=\"25px\"> Université Felix Houphouet Boigny",
+       "Degree":"PhD",
+       "Director":"Prof. Souleymane Konate",
+       "Deputy":"Prof. Souleymane Konate",
+       "Field":"Biodiversity",
+       "Adress":"Ex ESIE Bingerville.Pole scientifique Universite felix Houphouët boigny, 22 BP 463, Bingerville",
+       "Email":"<a href=\"mailto:i.bamba@wascal-ci.org\" title=\"Send email\">i.bamba@wascal-ci.org</a>",
+       "Phone":"(00225) 20 40 36 93",
+       "Program overview":"<a href=\"https://wascal.org/doctoral-programme-climate-change-and-biodiversity/\" title=\"GSP CCB\">web</a>"
+       }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [1.21431308255725, 6.176120327751286]
+    },
+   "properties": {
+       "Image":"<img src=\"..\/imgs\/togo.jpg\" width=\"90px\" margin=\"0px\" padding=\"0px\" opacity=\"0.7\">",
+       "Country":"<img src=\"..\/flags\/togo.png\"> Togo",
+       "Location":"Lome",
+       "Name":"Climate Change and Disaster Risks Managementy",
+       "Host University":"<img src=\"..\/univ-logo\/togo.png\" width=\"25px\" height=\"25px\"> Université de Lomé",
+       "Degree":"PhD",
+       "Director":"Prof. Komi Agboka",
+       "Deputy":"Prof Komi Begedou",
+       "Field":"Disaster and Risk Management",
+       "Adress":"B.P 1515 Lomé, Tokoin",
+       "Email":"<a href=\"mailto:contact@wascal-togo.org\" title=\"Send email\">contact@wascal-togo.org</a>",
+       "Phone":"+228 93808039/90300895",
+       "Program overview":"<a href=\"https://wascal.org/doctoral-programme-climate-change-and-disaster-risks-management/\" title=\"GSP CC-DRM\">web</a>"
+       }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [2.097290197947678, 13.502646523752745]
+    },
+   "properties": {
+       "Image":"<img src=\"..\/imgs\/niger.jpg\" width=\"90px\" margin=\"0px\" padding=\"0px\" opacity=\"0.7\">",
+       "Country":"<img src=\"..\/flags\/niger.png\"> Niger",
+       "Location":"Niamey",
+       "Name":"Climate Change and Energy",
+       "Host University":"<img src=\"..\/univ-logo\/abdoumoumouni.jpg\" width=\"25px\" height=\"25px\"> Universite Abdou Moumouni",
+       "Degree":"PhD",
+       "Director":"Prof. Rabani ADAMOU",
+       "Deputy":"Dr. Inoussa Maman Maarouhi",
+       "Field":"Energy",
+       "Adress":"B.P: 10662 UAM FAST, Niamey, Niger",
+       "Email":"<a href=\"mailto:drp-cce@wascal-ne.org\" title=\"Send email\">drp-cce@wascal-ne.org</a>",
+       "Phone":"+22720315014",
+       "Program overview":"<a href=\"https://wascal.org/doctoral-programme-climate-change-and-energy/\" title=\"GSP CCE\">web</a>"
+       }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.5463169390232325, 9.583569800597296]
+    },
+   "properties": {
+       "Image":"<img src=\"..\/imgs\/futMina.png\" width=\"90px\" margin=\"0px\" padding=\"0px\" opacity=\"0.7\">",
+       "Country":"<img src=\"..\/flags\/nigeria.png\"> Nigeria",
+       "Location":"Minna, Niger State",
+       "Name":" Climate Change and Human Habitat",
+       "Host University":"<img src=\"..\/univ-logo\/Fut_Minna.jpg\" width=\"25px\" height=\"25px\"> Federal University of Technology, Minna (FUT Minna)",
+       "Degree":"PhD",
+       "Director":"Prof.  Appollonia Okhimamhe",
+       "Deputy":"Dr. Saratu Usman IBRAHIM ",
+       "Field":"Human Habitat",
+       "Adress":"PMB 65, Minna Niger State, Nigeria",
+       "Email":"<a href=\"mailto:wascal_cchh@futminna.edu.ng\" title=\"Send email\">wascal_cchh@futminna.edu.ng</a>",
+       "Phone":"+234 8136448836",
+       "Program overview":"<a href=\"https://wascal.org/doctoral-programme-climate-change-and-human-habitat/\" title=\"GSP CC-HH\">web</a>"
+       }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-15.601744882696872, 13.573858391121048]
+    },
+   "properties": {
+       "Image":"<img src=\"..\/imgs\/gambia.jpg\" width=\"90px\" margin=\"0px\" padding=\"0px\" opacity=\"0.7\">",
+       "Country":"<img src=\"..\/flags\/gambia.png\"> The Gambia",
+       "Location":"Farafenni",
+       "Name":" Climate Change and Education",
+       "Host University":"<img src=\"..\/univ-logo\/gambia.jpg\" width=\"25px\" height=\"25px\"> University of the Gambia ",
+       "Degree":"PhD",
+       "Director":"Prof. Sidat Yaffa",
+       "Deputy":"Prof. Sidat Yaffa",
+       "Field":"Education",
+       "Adress":"Farafenni, in the North Bank Region of The Gambia",
+       "Email":"<a href=\"mailto:lsarr@utg.edu.gm\" title=\"Send email\">lsarr@utg.edu.gm</a>",
+       "Phone":"+220 3650028.",
+       "Program overview":"<a href=\"https://wascal.org/doctoral-programme-climate-change-and-education/\" title=\"GSP CC-Ed\">web</a>"
+       }
+  }
+]
+ }
+ 
